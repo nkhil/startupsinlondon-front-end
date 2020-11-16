@@ -1,0 +1,663 @@
+[
+  {
+    "companyName": "Curve",
+    "link": "https://curve.app/",
+    "description": "Curve is an Over The Top banking platform that consolidates all bank cards into a single smart card and app.",
+    "linkedIn": "https://www.linkedin.com/company/curve-ltd-/"
+  },
+  {
+    "companyName": "Rapyd",
+    "link": "https://rapyd.net/",
+    "description": "Rapyd is a platform creating a cardless financial network.",
+    "linkedIn": "https://www.linkedin.com/company/rapyd1/"
+  },
+  {
+    "companyName": "Monzo",
+    "link": "https://monzo.com/",
+    "description": "Monzo is a London-based digital-only bank platform.",
+    "linkedIn": "https://www.linkedin.com/company/monzo-bank/",
+    "logo": "monzo.png"
+  },
+  {
+    "companyName": "TransferWise",
+    "link": "https://transferwise.com",
+    "description": "TransferWise is a money transfer service allowing private individuals and businesses to send money abroad without hidden charges.",
+    "linkedIn": "https://www.linkedin.com/company/transferwise"
+  },
+  {
+    "companyName": "eToro",
+    "link": "https://etoro.com/",
+    "description": "eToro is a social trading and investment marketplace that allows users to trade currencies, commodities, indices, and stocks.",
+    "linkedIn": "https://www.linkedin.com/company/etoro/"
+  },
+  {
+    "companyName": "Funding Circle",
+    "link": "https://fundingcircle.com",
+    "description": "Funding Circle is a lending platform for small businesses.",
+    "linkedIn": "https://www.linkedin.com/company/funding-circle/"
+  },
+  {
+    "companyName": "Cazoo",
+    "link": "https://cazoo.co.uk/",
+    "description": "Cazoo is a platform that enables consumers to buy and rental car online.",
+    "linkedIn": "https://www.linkedin.com/company/cazoo/"
+  },
+  {
+    "companyName": "GoCardless",
+    "link": "https://gocardless.com/",
+    "description": "GoCardless is a payment company that makes collecting payments by direct debit easy for everyone.",
+    "linkedIn": "https://www.linkedin.com/company/gocardless/"
+  },
+  {
+    "companyName": "Babylon Health",
+    "link": "https://babylonhealth.com/",
+    "description": "Babylon Health aims to provide accessible, affordable healthcare by combining AI with doctors.",
+    "linkedIn": "https://www.linkedin.com/company/babylonhealth/"
+  },
+  {
+    "companyName": "Seedrs",
+    "link": "https://seedrs.com",
+    "description": "Seedrs is a UK-based equity crowdfunding platform.",
+    "linkedIn": "http://www.linkedin.com/company/397364"
+  },
+  {
+    "companyName": "IHS Markit",
+    "link": "https://ihsmarkit.com",
+    "description": "IHS provides information and analysis to support the decision-making process of businesses and governments in industries.",
+    "linkedIn": "https://www.linkedin.com/company/ihsmarkit/"
+  },
+  {
+    "companyName": "Onfido",
+    "link": "https://onfido.com",
+    "description": "Onfido's AI-based identity verification assesses whether a user’s ID is genuine, then compares it against their facial biometrics.",
+    "linkedIn": "http://www.linkedin.com/company/2697456"
+  },
+  {
+    "companyName": "Farfetch",
+    "link": "https://farfetch.com/",
+    "description": "Farfetch is an online luxury fashion retail platform.",
+    "linkedIn": "https://www.linkedin.com/company/farfetch.com/"
+  },
+  {
+    "companyName": "TradingView",
+    "link": "https://tradingview.com",
+    "description": "TradingView is the largest network of self-directed traders and investors with an advanced financial platform.",
+    "linkedIn": "http://www.linkedin.com/company/tradingview"
+  },
+  {
+    "companyName": "Medopad",
+    "link": "https://medopad.com",
+    "description": "Medopad is a British healthcare technology company that delivers better and more personalized care.",
+    "linkedIn": "http://www.linkedin.com/company/medopad"
+  },
+  {
+    "companyName": "Ebury",
+    "link": "https://ebury.com/",
+    "description": "Ebury is a financial services company designed to empower small and medium-sized businesses that want to trade internationally.",
+    "linkedIn": "https://www.linkedin.com/company/ebury/"
+  },
+  {
+    "companyName": "OakNorth",
+    "link": "https://oaknorth.com",
+    "description": "The next-generation credit platform that's redefining lending to lower mid-market businesses globally",
+    "linkedIn": "https://www.linkedin.com/company/oaknorth-platform"
+  },
+  {
+    "companyName": "WorldRemit",
+    "link": "https://worldremit.com",
+    "description": "WorldRemit is a money transfer service that helps migrants send money to their loved ones all over the world.",
+    "linkedIn": "https://www.linkedin.com/company/worldremit/"
+  },
+  {
+    "companyName": "Patch",
+    "link": "https://patchplants.com",
+    "description": "Patch is the direct-to-consumer brand for the people who need plants most – those who live and work in the city",
+    "linkedIn": ""
+  },
+  {
+    "companyName": "OneWeb",
+    "link": "https://oneweb.world/",
+    "description": "OneWeb is building a space-based global communications network that will deliver high-speed, low latency internet access everywhere.",
+    "linkedIn": "https://www.linkedin.com/company/oneweb-ltd/"
+  },
+  {
+    "companyName": "Mimecast",
+    "link": "https://mimecast.com",
+    "description": "Mimecast is a SaaS-based email management platform enabling companies to administer business communications and data.",
+    "linkedIn": "http://www.linkedin.com/company/mimecast"
+  },
+  {
+    "companyName": "Greensill",
+    "link": "https://www.greensill.com/",
+    "description": "Greensill is the leading provider of working capital finance for businesses and people all over the world.",
+    "linkedIn": "https://www.linkedin.com/company/greensill/"
+  },
+  {
+    "companyName": "Echo",
+    "link": "https://echo.co.uk",
+    "description": "Simplifying pharmacy, helping everyone get the medicine they need.",
+    "linkedIn": "https://www.linkedin.com/company/echo-co-uk"
+  },
+  {
+    "companyName": "SumUp",
+    "link": "https://sumup.com",
+    "description": "SumUp is a financial technology company that enables businesses to accept card payments at the Point-of-Sale or on the go.",
+    "linkedIn": "http://www.linkedin.com/company/2619512"
+  },
+  {
+    "companyName": "Improbable",
+    "link": "https://improbable.io",
+    "description": "Improbable is a games technology company based in the UK.",
+    "linkedIn": "https://www.linkedin.com/company/improbable"
+  },
+  {
+    "companyName": "Secret Escapes",
+    "link": "https://secretescapes.com",
+    "description": "Secret Escapes is a members-only travel club offering discounted rates on luxury hotels and holidays in the UK.",
+    "linkedIn": "https://www.linkedin.com/company/secret-escapes"
+  },
+  {
+    "companyName": "Cleo",
+    "link": "https://meetcleo.com/",
+    "description": "Cleo is an artificial intelligence startup that offers an intelligent assistant to help users in managing their finances.",
+    "linkedIn": "https://www.linkedin.com/company/cleo-ai"
+  },
+  {
+    "companyName": "Tide",
+    "link": "https://tide.co",
+    "description": "Tide is a fintech and banking company that gives time back to business owners, so they can get back to doing what they love.",
+    "linkedIn": "https://www.linkedin.com/company/10877408"
+  },
+  {
+    "companyName": "Signal AI",
+    "link": "https://signal-ai.com",
+    "description": "Signal AI is an artificial intelligence company that transforms the world’s information into accessible, actionable business knowledge.",
+    "linkedIn": "https://www.linkedin.com/company/signal-artificial-intelligence/"
+  },
+  {
+    "companyName": "LendInvest",
+    "link": "https://lendinvest.com",
+    "description": "LendInvest operates an online marketplace for property lending and investing.",
+    "linkedIn": "http://www.linkedin.com/company/lendinvest/"
+  },
+  {
+    "companyName": "Citymapper",
+    "link": "https://citymapper.com",
+    "description": "Citymapper is a public transit app and mapping service with an emphasis on public transport.",
+    "linkedIn": "https://www.linkedin.com/company/citymapper/"
+  },
+  {
+    "companyName": "Blockchain",
+    "link": "https://blockchain.com/",
+    "description": "Blockchain is a web-based bitcoin platform.",
+    "linkedIn": "http://www.linkedin.com/company/blockchain"
+  },
+  {
+    "companyName": "Pollen",
+    "link": "https://pollen.co",
+    "description": "Pollen is an invite-only marketplace, using influencer marketing for experiences and events.",
+    "linkedIn": "https://www.linkedin.com/company/pollenco"
+  },
+  {
+    "companyName": "Wefarm",
+    "link": "https://wefarm.co/",
+    "description": "Wefarm is the world’s largest farmer-to-farmer digital network that enables farmers to share information via SMS, without the internet.",
+    "linkedIn": "https://www.linkedin.com/company/wefarm/"
+  },
+  {
+    "companyName": "TrueLayer",
+    "link": "https://truelayer.com",
+    "description": "TrueLayer provides a platform to build financial apps that connect to bank data, verify accounts, and access transactions in real time.",
+    "linkedIn": "https://www.linkedin.com/company/truelayer"
+  },
+  {
+    "companyName": "Depop",
+    "link": "https://depop.com/",
+    "description": "Depop provides a mobile application that allows users to buy, sell, discover, and explore various things.",
+    "linkedIn": "https://www.linkedin.com/company/depop/"
+  },
+  {
+    "companyName": "IMMO Investment Technologies",
+    "link": "https://immo.co.uk",
+    "description": "IMMO helps sell, rent & invest into residential real estate, thereby opening up a new asset class for investors.",
+    "linkedIn": "https://www.linkedin.com/company/immoinvesttech/"
+  },
+  {
+    "companyName": "Currencycloud",
+    "link": "https://currencycloud.com/",
+    "description": "Currencycloud is a global payment platform that serves businesses by providing technologies that makes payments frictionless.",
+    "linkedIn": "https://www.linkedin.com/company/the-currency-cloud/"
+  },
+  {
+    "companyName": "Zego",
+    "link": "https://zego.com/",
+    "description": "Zego is a global insurtech business providing flexible commercial insurance for businesses and professionals.",
+    "linkedIn": "https://www.linkedin.com/company/tegocover"
+  },
+  {
+    "companyName": "Sofar Sounds",
+    "link": "https://sofarsounds.com",
+    "description": "Sofar Sounds is a global community hosting curated, secret performances in more than 400 cities around the world.",
+    "linkedIn": "http://www.linkedin.com/company/sofarsounds"
+  },
+  {
+    "companyName": "Nutmeg",
+    "link": "https://nutmeg.com",
+    "description": "Nutmeg is an online investment service that specializes in investments, ISAs and pensions.",
+    "linkedIn": "http://www.linkedin.com/company/2260443"
+  },
+  {
+    "companyName": "Tessian",
+    "link": "https://tessian.com/",
+    "description": "Tessian is building the first Human Layer Security platform to protect people using email.",
+    "linkedIn": "https://www.linkedin.com/company/tessian/"
+  },
+  {
+    "companyName": "Soldo",
+    "link": "https://soldo.com",
+    "description": "Soldo is a multi-user expense account helping companies manage their budgets.",
+    "linkedIn": "https://www.linkedin.com/company/soldo"
+  },
+  {
+    "companyName": "Checkout",
+    "link": "https://checkout.com",
+    "description": "Checkout helps companies accept more payments around the world through one integration.",
+    "linkedIn": "https://www.linkedin.com/company/checkout"
+  },
+  {
+    "companyName": "Elvie",
+    "link": "https://elvie.com",
+    "description": "Elvie is a British femtech company developing smarter technology for women.",
+    "linkedIn": "https://www.linkedin.com/company/5015177/"
+  },
+  {
+    "companyName": "Blue Prism Group",
+    "link": "https://blueprism.com/",
+    "description": "Blue Prism develops robotic process automation software and transforms the core business processes to drive innovation.",
+    "linkedIn": "https://www.linkedin.com/company/138522"
+  },
+  {
+    "companyName": "Receipt Bank",
+    "link": "https://receipt-bank.com",
+    "description": "Receipt Bank is a paperless bookkeeping platform connecting accountants, bookkeepers and businesses.",
+    "linkedIn": "http://www.linkedin.com/company/1370329"
+  },
+  {
+    "companyName": "COMPASS",
+    "link": "https://compasspathways.com",
+    "description": "COMPASS Pathways is a mental health care company dedicated to accelerating patient access to evidence-based innovation in mental health.",
+    "linkedIn": "https://www.linkedin.com/company/compass-pathways/"
+  },
+  {
+    "companyName": "Telegram Messenger",
+    "link": "https://telegram.org",
+    "description": "Telegram is a cloud-based mobile and desktop messaging app with a focus on privacy, security, and speed.",
+    "linkedIn": "https://www.linkedin.com/company/9054934/"
+  },
+  {
+    "companyName": "Deliveroo",
+    "link": "https://deliveroo.co.uk/",
+    "description": "Deliveroo owns and operates an online food delivery platform in the United Kingdom.",
+    "linkedIn": "https://www.linkedin.com/company/deliveroo/"
+  },
+  {
+    "companyName": "Inmarsat",
+    "link": "https://inmarsat.com",
+    "description": "Inmarsat is the world's provider of global mobile satellite communications.",
+    "linkedIn": "https://www.linkedin.com/company/inmarsat?language=EN&textonly=False"
+  },
+  {
+    "companyName": "Culture Trip",
+    "link": "https://theculturetrip.com",
+    "description": "Culture Trip is a global tech startup that inspires people to explore the world’s culture and creativity.",
+    "linkedIn": "https://www.linkedin.com/company/tct"
+  },
+  {
+    "companyName": "Huddle",
+    "link": "https://huddle.com",
+    "description": "Huddle is the enterprise document collaboration company that helps organizations across the globe to collaborate intelligently.",
+    "linkedIn": "http://www.linkedin.com/company/134570"
+  },
+  {
+    "companyName": "Festicket",
+    "link": "https://festicket.com/",
+    "description": "Festicket is a marketplace to discover and book music festival tickets, accommodation, transfers and extras.",
+    "linkedIn": "https://www.linkedin.com/company/festicket/"
+  },
+  {
+    "companyName": "Revolut",
+    "link": "https://revolut.com",
+    "description": "Revolut is a digital banking alternative for instant payment notifications: free international money transfers and global fee-free spending.",
+    "linkedIn": "https://www.linkedin.com/company/revolut"
+  },
+  {
+    "companyName": "Revolut",
+    "link": "https://revolut.com",
+    "description": "Revolut is a digital banking alternative for instant payment notifications: free international money transfers and global fee-free spending.",
+    "linkedIn": "https://www.linkedin.com/company/revolut"
+  },
+  {
+    "companyName": "FaceIT",
+    "link": "https://corporate.faceit.com/",
+    "description": "FaceIT is the gaming platform for professional competitions within online multiplayer video games.",
+    "linkedIn": "https://www.linkedin.com/company/face-it-ltd-/"
+  },
+  {
+    "companyName": "Perkbox",
+    "link": "https://perkbox.com/uk",
+    "description": "Perkbox is UK's leading employee and customer engagement platform.",
+    "linkedIn": "https://www.linkedin.com/company/perkbox"
+  },
+  {
+    "companyName": "Gousto",
+    "link": "https://gousto.co.uk/",
+    "description": "Gousto is an online meal-kit manufacturer and retailer, using AI and automation to provide extensive choice and personalisation.",
+    "linkedIn": "https://www.linkedin.com/company/gousto/"
+  },
+  {
+    "companyName": "TransferGo",
+    "link": "https://transfergo.com",
+    "description": "TransferGo offers digital international money transfers for migrants and businesses.",
+    "linkedIn": "https://www.linkedin.com/company/2490314"
+  },
+  {
+    "companyName": "Lightsource Renewable Energy",
+    "link": "https://lightsourcebp.com/uk/",
+    "description": "Lightsource is a provider of ground and rooftop solar installations in the UK.",
+    "linkedIn": "https://in.linkedin.com/company/lightsourcebp"
+  },
+  {
+    "companyName": "Habito",
+    "link": "https://habito.com",
+    "description": "Habito is the UK's digital mortgage broker, using technology to bring the mortgage-application process into the 21st century.",
+    "linkedIn": "https://www.linkedin.com/company/habito-"
+  },
+  {
+    "companyName": "Carwow",
+    "link": "https://carwow.co.uk/",
+    "description": "Carwow helps efficiently connect car buyers to car dealers and makes buying a car easy and enjoyable.",
+    "linkedIn": "https://www.linkedin.com/company/carwow"
+  },
+  {
+    "companyName": "Thought Machine",
+    "link": "https://thoughtmachine.net/",
+    "description": "Thought Machine are building Vault, a next-generation core banking system for banks.",
+    "linkedIn": "https://www.linkedin.com/company/thought-machine/"
+  },
+  {
+    "companyName": "Yoyo Wallet",
+    "link": "https://yoyowallet.com/",
+    "description": "Yoyo Wallet is a mobile payment, loyalty and marketing platform.",
+    "linkedIn": "https://www.linkedin.com/company/yoyo-wallet/"
+  },
+  {
+    "companyName": "MADE",
+    "link": "https://made.com",
+    "description": "Made.com is an online e-commerce platform directly providing designer furniture without third party involvement.",
+    "linkedIn": "https://www.linkedin.com/company/made-com/"
+  },
+  {
+    "companyName": "iwoca",
+    "link": "https://iwoca.co.uk/",
+    "description": "iwoca offers finance for businesses for various purposes ranging from bridging short-term cashflow gaps to investing in stock opportunities.",
+    "linkedIn": "https://www.linkedin.com/company/iwoca/"
+  },
+  {
+    "companyName": "Chip Financial",
+    "link": "https://getchip.uk/",
+    "description": "Chip an automatic savings app that does all the hard work to make saving money as easy as spending it.",
+    "linkedIn": "https://www.linkedin.com/company/get-chip"
+  },
+  {
+    "companyName": "ComplyAdvantage",
+    "link": "https://complyadvantage.com/",
+    "description": "ComplyAdvantage helps firms make intelligent risk decisions, faster by providing real-time insight into the risk of people and companies.",
+    "linkedIn": "https://www.linkedin.com/company/complyadvantage"
+  },
+  {
+    "companyName": "Blippar",
+    "link": "https://blippar.com",
+    "description": "Blippar is a technology company specializing in augmented reality, artificial intelligence and computer vision.",
+    "linkedIn": "http://www.linkedin.com/company/blippar"
+  },
+  {
+    "companyName": "Bulb",
+    "link": "https://bulb.co.uk/",
+    "description": "Bulb provides affordable renewable energy for homes and businesses.",
+    "linkedIn": "https://www.linkedin.com/company/bulb-energy/"
+  },
+  {
+    "companyName": "Trussle",
+    "link": "https://trussle.com/",
+    "description": "Trussle is a free online mortgage broker that works with much needed transparency.",
+    "linkedIn": "https://www.linkedin.com/company/trussle"
+  },
+  {
+    "companyName": "Tractable",
+    "link": "https://tractable.ai",
+    "description": "Tractable develops artificial intelligence for accident and disaster recovery.",
+    "linkedIn": "https://www.linkedin.com/company/tractable"
+  },
+  {
+    "companyName": "Everledger",
+    "link": "https://everledger.io",
+    "description": "Everledger provides an immutable ledger for diamond and other asset ownership and related supply chain history.",
+    "linkedIn": "https://www.linkedin.com/company/10011546"
+  },
+  {
+    "companyName": "Moneyfarm",
+    "link": "https://moneyfarm.com",
+    "description": "Moneyfarm is a digital wealth manager that offers advice and investments.",
+    "linkedIn": "http://www.linkedin.com/company/moneyfarm"
+  },
+  {
+    "companyName": "MarketInvoice",
+    "link": "https://marketinvoice.com",
+    "description": "MarketInvoice is a fintech firm providing business finance solutions that help companies grow.",
+    "linkedIn": "http://www.linkedin.com/company/marketinvoice-limited"
+  },
+  {
+    "companyName": "LabGenius",
+    "link": "https://labgeni.us",
+    "description": "Harnessing the power of machine learning to create better protein therapeutics.",
+    "linkedIn": "https://www.linkedin.com/company/labgenius/"
+  },
+  {
+    "companyName": "ClauseMatch",
+    "link": "https://clausematch.com",
+    "description": "ClauseMatch is a financial technology company that provides software-as-a-service platform for smart document management.",
+    "linkedIn": "http://www.linkedin.com/company/clausematch"
+  },
+  {
+    "companyName": "IP Group Plc",
+    "link": "https://ipgroupplc.com",
+    "description": "IP Group is a IP commercialisation company specialising in evolving great ideas into world-changing businesses.",
+    "linkedIn": "http://www.linkedin.com/company/ip-group-plc"
+  },
+  {
+    "companyName": "Glassbox",
+    "link": "https://glassboxdigital.com",
+    "description": "Glassbox is adisruptive provider of ‘instant replay’ digital customer experience solutions for both the web and mobile.",
+    "linkedIn": "https://www.linkedin.com/company/10491772"
+  },
+  {
+    "companyName": "ClearBank",
+    "link": "https://clear.bank/",
+    "description": "ClearBank is the UK’s first new clearing bank in more than 250 years.",
+    "linkedIn": "https://www.linkedin.com/company-beta/17971075/"
+  },
+  {
+    "companyName": "Cervest",
+    "link": "https://cervest.earth",
+    "description": "Cervest is building an AI-first platform to help businesses, governments and growers adapt to climate volatility, and protect our planet.",
+    "linkedIn": "https://www.linkedin.com/company/cervest/"
+  },
+  {
+    "companyName": "Bitstamp",
+    "link": "https://bitstamp.net/",
+    "description": "Bitstamp allows companies and individuals from all around the world to buy and sell bitcoin, litecoin, ethereum, ripple, and bitcoin cash.",
+    "linkedIn": "http://www.linkedin.com/company/bitstamp/"
+  },
+  {
+    "companyName": "SenSat",
+    "link": "https://sensat.co.uk/",
+    "description": "SenSat simulates reality in real time, which helps computers solve real world problems.",
+    "linkedIn": "https://www.linkedin.com/company/sensat/"
+  },
+  {
+    "companyName": "Augmentum Fintech",
+    "link": "https://augmentum.vc/",
+    "description": "Augmentum Fintech is a venture capital fund with a focus in fast growing and/or high potential FinTech companies in the UK and Europe.",
+    "linkedIn": "https://www.linkedin.com/company/augmentum-fintech/"
+  },
+  {
+    "companyName": "Divido",
+    "link": "https://divido.com",
+    "description": "Divido is a global white label consumer lending platform for financial institutions and multinational retailers.",
+    "linkedIn": "https://www.linkedin.com/company/divido/"
+  },
+  {
+    "companyName": "FundamentalVR",
+    "link": "https://fundamentalvr.com",
+    "description": "FundamentalVR delivers VR haptic 'flight simulators' for surgery creating a safe, measurable & repeatable space to refine to refine skills.",
+    "linkedIn": "https://www.linkedin.com/company/fundamentalvr/"
+  },
+  {
+    "companyName": "Keyless",
+    "link": "https://keyless.io/",
+    "description": "Keyless enables enterprise to make data privacy and security the rule rather than the exception.",
+    "linkedIn": "https://www.linkedin.com/company/keylesstech"
+  },
+  {
+    "companyName": "Moneybox",
+    "link": "https://moneyboxapp.com",
+    "description": "Moneybox is a mobile savings and investment app that enables users to round up their digital spare change into a Stocks & Shares ISA.",
+    "linkedIn": "https://www.linkedin.com/company/digital-moneybox"
+  },
+  {
+    "companyName": "Kheiron",
+    "link": "https://kheironmed.com/",
+    "description": "Kheiron develops and builds tools to help radiologists with the early detection of breast cancer.",
+    "linkedIn": "https://www.linkedin.com/company/kheironmed/"
+  },
+  {
+    "companyName": "Disperse",
+    "link": "https://disperse.io",
+    "description": "Disperse.io is a VC-backed artificial intelligence construction startup focused on improving on-site productivity.",
+    "linkedIn": "https://www.linkedin.com/company/disperse-io/"
+  },
+  {
+    "companyName": "Starling Bank",
+    "link": "https://starlingbank.com/",
+    "description": "Starling Bank provides a mobile banking application and a debit card that enable users to manage their finances.",
+    "linkedIn": "https://www.linkedin.com/company/starlingbank/"
+  },
+  {
+    "companyName": "Impala",
+    "link": "https://getimpala.com",
+    "description": "Impala allows products to connect to hotel systems using a well-documented JSON API.",
+    "linkedIn": "https://www.linkedin.com/company/11162242/"
+  },
+  {
+    "companyName": "Hummingbird Technologies",
+    "link": "https://hummingbirdtech.com/",
+    "description": "Hummingbird is a drone and satellite enabled imagery analytics business for precision agriculture.",
+    "linkedIn": "https://www.linkedin.com/company/hummingbird-tech-group/"
+  },
+  {
+    "companyName": "TotallyMoney",
+    "link": "https://totallymoney.com/",
+    "description": "TotallyMoney puts customers right at the center of their credit data, helping them make smarter financial decisions.",
+    "linkedIn": "https://www.linkedin.com/company/totallymoney-com"
+  },
+  {
+    "companyName": "Koyo",
+    "link": "https://koyoloans.com/",
+    "description": "Koyo provides loans intended for people with short credit histories.",
+    "linkedIn": "https://www.linkedin.com/company/koyoloans/"
+  },
+  {
+    "companyName": "Contino",
+    "link": "https://contino.io/",
+    "description": "Contino is a professional services consultancy providing a range of services for DevOps, Continuous Delivery, and Pragmatic Agile practices.",
+    "linkedIn": "https://www.linkedin.com/company/contino"
+  },
+  {
+    "companyName": "Proportunity",
+    "link": "https://proportunity.co",
+    "description": "Proportunity is a financial services organisation made possible by technology.",
+    "linkedIn": "https://www.linkedin.com/company/proportunity/"
+  },
+  {
+    "companyName": "MishiPay",
+    "link": "https://mishipay.com/",
+    "description": "Mishipay is an app allowing you to never have to stand in line to pay at a store again.",
+    "linkedIn": "https://www.linkedin.com/company/mishipay"
+  },
+  {
+    "companyName": "HowNow",
+    "link": "https://learnhownow.com/",
+    "description": "HowNow is a London-based EdTech startup that connects experts and learners by offering interactive video lessons.",
+    "linkedIn": "https://www.linkedin.com/company/hownowtv/about/"
+  },
+  {
+    "companyName": "Fnatic",
+    "link": "https://http://fnatic.com",
+    "description": "Fnatic Team is a professional video gaming team, consisting of players from across the globe who all make a living through competing.",
+    "linkedIn": "https://www.linkedin.com/company/fnatic/"
+  },
+  {
+    "companyName": "Webiny",
+    "link": "https://webiny.com",
+    "description": "Webiny is a content management system designed to run inside a serverless environment.",
+    "linkedIn": "https://www.linkedin.com/company/webiny/about/"
+  },
+  {
+    "companyName": "ProFinda",
+    "link": "https://profinda.com",
+    "description": "ProFinda is a digital platform that intelligently organizes people around work by matching skills to relevant projects and bids.",
+    "linkedIn": "https://www.linkedin.com/company/profinda-com"
+  },
+  {
+    "companyName": "Duffel",
+    "link": "https://duffel.com",
+    "description": "Duffel provides an online platform that allows users to search, book, and manage flights from multiple airlines.",
+    "linkedIn": "https://www.linkedin.com/company/duffelhq/"
+  },
+  {
+    "companyName": "Wagestream",
+    "link": "https://wagestream.co.uk/",
+    "description": "Wagestream is a financial services firm that allows employees to stream their earned wages into their accounts through an instant app.",
+    "linkedIn": "https://www.linkedin.com/company/wagestream/"
+  },
+  {
+    "companyName": "Relative Insight",
+    "link": "https://relativeinsight.com/",
+    "description": "Relative Insight help brands sharpen strategy and communications by comparing and analyzing language.",
+    "linkedIn": "https://www.linkedin.com/company/relative-insight/"
+  },
+  {
+    "companyName": "Discover Film",
+    "link": "https://bestshortfilms.discover.film/browse",
+    "description": "A technology and entertainment platform for short movies. Films can be watched online and via mobile and Smart TV Apps.",
+    "linkedIn": "https://www.linkedin.com/company/discover.film"
+  },
+  {
+    "companyName": "Bloom & Wild",
+    "link": "https://bloomandwild.com",
+    "description": "Bloom & Wild is a letterbox flower delivery company.",
+    "linkedIn": "https://www.linkedin.com/company/bloom-&-wild/"
+  },
+  {
+    "companyName": "AllPlants",
+    "link": "https://allplants.com",
+    "description": "AllPlants is a VC-backed B-Corp on a mission to become Earth’s most forward-thinking food company.",
+    "linkedIn": "https://www.linkedin.com/company/allplants/"
+  },
+  {
+    "companyName": "WhiteHat",
+    "link": "https://whitehat.org.uk/",
+    "description": "WhiteHat is a tech startup democratising access to the best careers.",
+    "linkedIn": "https://www.linkedin.com/company/whitehatgb/"
+  }
+]
