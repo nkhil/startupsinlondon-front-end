@@ -2,11 +2,12 @@
 
 html,
 body {
-  display: flex;
-  min-height: 100%;
-  flex-direction: column;
-  margin: auto;
-  align-items: center;
+  /* display: flex; */
+  height: 100%;
+  width: 100%;
+  /* flex-direction: column; */
+  /* margin: auto; */
+  /* align-items: center; */
   padding: 0;
   margin: 0;
   /* font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
@@ -45,18 +46,20 @@ code {
 }
 
 .container {
-  display: flex;
-  flex-direction: column;
+  /* display: flex; */
+  /* flex-direction: column; */
   max-width: 1280px;
+  border: 1px solid red;
+  margin: auto;
 }
 
 .grid-container {
-  /* width: inherit; */
   display: grid;
-  /* grid-template-columns: repeat(auto-fill, minmax(400px, 1fr)); */
-  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-  justify-content: space-evenly;
-  grid-gap: 20px;
+  background-color: pink;
+  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+  /* grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); */
+  /* justify-content: space-evenly; */
+  grid-gap: 1rem;
 }
 
 @media only screen and (min-width: 1280px) {
@@ -64,4 +67,10 @@ code {
     min-width: 1280px;
   }
 }
+
+/* @media only screen and (min-width: 768px) {
+  .container {
+    min-width: 600px;
+  }
+} */
 

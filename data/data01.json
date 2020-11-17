@@ -3,13 +3,15 @@
     "companyName": "Curve",
     "link": "https://curve.app/",
     "description": "Curve is an Over The Top banking platform that consolidates all bank cards into a single smart card and app.",
-    "linkedIn": "https://www.linkedin.com/company/curve-ltd-/"
+    "linkedIn": "https://www.linkedin.com/company/curve-ltd-/",
+    "logo": "curve.jpg"
   },
   {
     "companyName": "Rapyd",
     "link": "https://rapyd.net/",
     "description": "Rapyd is a platform creating a cardless financial network.",
-    "linkedIn": "https://www.linkedin.com/company/rapyd1/"
+    "linkedIn": "https://www.linkedin.com/company/rapyd1/",
+    "logo": "rapyd.png"
   },
   {
     "companyName": "Monzo",
@@ -22,7 +24,8 @@
     "companyName": "TransferWise",
     "link": "https://transferwise.com",
     "description": "TransferWise is a money transfer service allowing private individuals and businesses to send money abroad without hidden charges.",
-    "linkedIn": "https://www.linkedin.com/company/transferwise"
+    "linkedIn": "https://www.linkedin.com/company/transferwise",
+    "logo": "transferwise.png"
   },
   {
     "companyName": "eToro",
