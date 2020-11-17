@@ -1,8 +1,5 @@
 import Head from 'next/head'
-import Header from '@components/Header'
-const fetch = require('node-fetch')
-import companies from '../data/data01.json'
-import CompanyCard from '@components/CompanyCard'
+import CompanyList from '@components/CompanyList'
 
 export default function Home() {
   return (
@@ -12,12 +9,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <div className={'grid-container'}>
-        {companies.map((company, index) => (
-          <CompanyCard company={company} key={index} />
-        ))}
-      </div>
-
+      <CompanyList />
     </div>
   )
 }

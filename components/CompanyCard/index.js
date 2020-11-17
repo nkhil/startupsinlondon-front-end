@@ -13,7 +13,7 @@ export default function CompanyCard({ company }) {
       <p className={styles.p}>{description}</p>
       <div className={styles.links}>
         <a href={linkedIn}><FaLinkedin size={30} /></a>
-        <a href={link}><BiLink size={30} color={'#000'} /></a>
+        <a href={link}>Website <BiLink size={15} color={'#000'} /></a>
       </div>
     </div>
   )
