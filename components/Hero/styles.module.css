@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  border-bottom: 3px solid #8C70FF;
+}
+
+.h2 {
+  font-weight: 600;
+  font-size: 3rem;
+}

@@ -9,6 +9,7 @@
     "export": "next export"
   },
   "dependencies": {
+    "a11y-react-emoji": "^1.1.2",
     "imagemin-mozjpeg": "^9.0.0",
     "imagemin-optipng": "^8.0.0",
     "next": "10.0.1",
