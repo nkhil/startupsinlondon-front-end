@@ -2,8 +2,11 @@ import Head from 'next/head'
 import Logo from '@components/Logo'
 import CompanyList from '@components/CompanyList'
 import Hero from '@components/Hero'
+import { useState } from 'react'
 
 export default function Home() {
+  const [category, setCategory] = useState('')
+
   return (
     <div className="container">
       <Head>
@@ -14,8 +17,7 @@ export default function Home() {
 
       <Logo />
       <Hero />
-      <CompanyList />
+      <CompanyList category={category} />
     </div>
   )
 }
-

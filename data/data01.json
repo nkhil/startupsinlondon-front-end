@@ -11,14 +11,16 @@
     "link": "https://rapyd.net/",
     "description": "Rapyd is a platform creating a cardless financial network.",
     "linkedIn": "https://www.linkedin.com/company/rapyd1/",
-    "logo": "rapyd.png"
+    "logo": "rapyd.png",
+    "category": "fintech"
   },
   {
     "companyName": "Monzo",
     "link": "https://monzo.com/",
     "description": "Monzo is a London-based digital-only bank platform.",
     "linkedIn": "https://www.linkedin.com/company/monzo-bank/",
-    "logo": "monzo.png"
+    "logo": "monzo.png",
+    "category": "fintech"
   },
   {
     "companyName": "TransferWise",
