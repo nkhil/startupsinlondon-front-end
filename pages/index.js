@@ -9,6 +9,7 @@ export default function Home() {
       <Head>
         <title>London Startups</title>
         <link rel="icon" href="/favicon.ico" />
+        <meta name="google-site-verification" content="PpgQigxK4TjFLpnsnRo970vUPwijbINVOmo011dFYM0" />
       </Head>
 
       <Logo />
