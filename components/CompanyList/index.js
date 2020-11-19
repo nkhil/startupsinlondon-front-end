@@ -3,7 +3,7 @@ import companyList from '../../data/data01.json'
 import CompanyCard from '@components/CompanyCard'
 import { setState } from 'react'
 
-export default function CompanyList({ category }) {
+export default function CompanyList({ category, searchQuery }) {
   const companies = companyList.filter(company => {
     if (category === '') {
       return company
@@ -11,9 +11,20 @@ export default function CompanyList({ category }) {
       return company.category === category
     }
   })
+
+  let list = companies
+
+  if (searchQuery) {
+    list = companies.filter(company => (
+      company.companyName.toLowerCase().includes(searchQuery)
+    ))
+  } else {
+    list = list.slice(0, 50)
+  }
+
   return (
     <div className={styles.container}>
-      {companies.map((company, index) => (
+      {list.map((company, index) => (
         <CompanyCard company={company} key={index} />
       ))}
     </div>

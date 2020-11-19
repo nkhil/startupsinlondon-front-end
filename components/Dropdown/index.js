@@ -1,20 +1,21 @@
-import useComponentVisible from '../../helpers/componentIsVisible'
 import styles from './styles.module.css'
-import { BiCaretDownSquare } from "react-icons/bi";
-import { useState, useEffect } from 'react'
 
-export default function DropDown() {
-  const { ref, isComponentVisible, setIsComponentVisible } = useComponentVisible(false)
-  const toggleDropdown = () => setIsComponentVisible(!isComponentVisible)
+export default function DropDown({ setCategory }) {
+  const options = [
+    { value: '', label: 'All Categories' },
+    { value: 'fintech', label: 'Fintech' },
+    { value: 'health', label: 'Health' },
+  ]
+  const handleChange = (e) => setCategory(e.target.value)
+
   return (
-    <div>
-      <div className={styles.container} onClick={toggleDropdown}>
-        <p>Browse by category</p>
-        <BiCaretDownSquare size={30} color={'#8C70FF'} />
-      </div>
-      <div className={styles.dropdown} ref={ref}>
-        {isComponentVisible && (<p>This is the dropdown list</p>)}
-      </div>
+    <div className={styles.container}>
+      Sort by category:
+      <select name="cars" id="cars" className={styles.select_css} onChange={handleChange}>
+        {options.map((option, i) => (
+          <option value={option.value} key={i}>{option.label}</option>
+        ))}
+      </select>
     </div>
   );
 }
