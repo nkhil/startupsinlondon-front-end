@@ -15,9 +15,11 @@ export default function CompanyList({ category, searchQuery }) {
   let list = companies
 
   if (searchQuery) {
-    list = companies.filter(company => (
-      company.companyName.toLowerCase().includes(searchQuery)
-    ))
+    list = companies.filter(company => {
+      const query = searchQuery.toLowerCase()
+      const companyName = company.companyName.toLowerCase()
+      return companyName.includes(query)
+    })
   } else {
     list = list.slice(0, 50)
   }
