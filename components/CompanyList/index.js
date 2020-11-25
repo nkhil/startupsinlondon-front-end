@@ -1,6 +1,7 @@
 import styles from './styles.module.css'
 import companyList from '../../data/data01.json'
 import CompanyCard from '@components/CompanyCard'
+import shuffle from '../../helpers/shuffle'
 
 export default function CompanyList({ category, searchQuery }) {
   const companies = companyList.filter(company => {
@@ -22,6 +23,8 @@ export default function CompanyList({ category, searchQuery }) {
   } else {
     list = list.slice(0, 50)
   }
+
+  shuffle(list)
 
   return (
     <div className={styles.container}>
