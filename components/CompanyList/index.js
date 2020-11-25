@@ -1,7 +1,6 @@
 import styles from './styles.module.css'
 import companyList from '../../data/data01.json'
 import CompanyCard from '@components/CompanyCard'
-import { setState } from 'react'
 
 export default function CompanyList({ category, searchQuery }) {
   const companies = companyList.filter(company => {
