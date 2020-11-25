@@ -17,7 +17,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>London Startups</title>
+        <title>London Startups: Up to date list of startups in London</title>
         <link rel="icon" href="/favicon.ico" />
         <meta name="google-site-verification" content="PpgQigxK4TjFLpnsnRo970vUPwijbINVOmo011dFYM0" />
       </Head>
