@@ -4,7 +4,7 @@
     "link": "https://curve.app/",
     "description": "Curve is an Over The Top banking platform that consolidates all bank cards into a single smart card and app.",
     "linkedIn": "https://www.linkedin.com/company/curve-ltd-/",
-    "logo": "curve.jpg"
+    "logo": "curve.png"
   },
   {
     "companyName": "Rapyd",
@@ -27,13 +27,14 @@
     "link": "https://transferwise.com",
     "description": "TransferWise is a money transfer service allowing private individuals and businesses to send money abroad without hidden charges.",
     "linkedIn": "https://www.linkedin.com/company/transferwise",
-    "logo": "transferwise.png"
+    "logo": "TransferWise.png"
   },
   {
     "companyName": "eToro",
     "link": "https://etoro.com/",
     "description": "eToro is a social trading and investment marketplace that allows users to trade currencies, commodities, indices, and stocks.",
-    "linkedIn": "https://www.linkedin.com/company/etoro/"
+    "linkedIn": "https://www.linkedin.com/company/etoro/",
+    "logo": "eToro.png"
   },
   {
     "companyName": "Funding Circle",
