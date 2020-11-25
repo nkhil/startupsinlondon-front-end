@@ -8,7 +8,7 @@ export default function CompanyList({ category, searchQuery }) {
     if (category === '') {
       return company
     } else {
-      return company.category === category
+      return category.includes(company.category)
     }
   })
 
