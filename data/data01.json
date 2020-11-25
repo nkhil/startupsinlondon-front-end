@@ -4,7 +4,10 @@
     "link": "https://curve.app/",
     "description": "Curve is an Over The Top banking platform that consolidates all bank cards into a single smart card and app.",
     "linkedIn": "https://www.linkedin.com/company/curve-ltd-/",
-    "logo": "curve.png"
+    "logo": "curve.png",
+    "category": [
+      "fintech"
+    ]
   },
   {
     "companyName": "Rapyd",
@@ -12,7 +15,9 @@
     "description": "Rapyd is a platform creating a cardless financial network.",
     "linkedIn": "https://www.linkedin.com/company/rapyd1/",
     "logo": "rapyd.png",
-    "category": "fintech"
+    "category": [
+      "fintech"
+    ]
   },
   {
     "companyName": "Monzo",
@@ -20,87 +25,120 @@
     "description": "Monzo is a London-based digital-only bank platform.",
     "linkedIn": "https://www.linkedin.com/company/monzo-bank/",
     "logo": "monzo.png",
-    "category": "fintech"
+    "category": [
+      "fintech"
+    ]
   },
   {
     "companyName": "TransferWise",
     "link": "https://transferwise.com",
     "description": "TransferWise is a money transfer service allowing private individuals and businesses to send money abroad without hidden charges.",
     "linkedIn": "https://www.linkedin.com/company/transferwise",
-    "logo": "TransferWise.png"
+    "logo": "TransferWise.png",
+    "category": [
+      "fintech"
+    ]
   },
   {
     "companyName": "eToro",
     "link": "https://etoro.com/",
     "description": "eToro is a social trading and investment marketplace that allows users to trade currencies, commodities, indices, and stocks.",
     "linkedIn": "https://www.linkedin.com/company/etoro/",
-    "logo": "eToro.png"
+    "logo": "eToro.png",
+    "category": [
+      "fintech"
+    ]
   },
   {
     "companyName": "Funding Circle",
     "link": "https://fundingcircle.com",
     "description": "Funding Circle is a lending platform for small businesses.",
-    "linkedIn": "https://www.linkedin.com/company/funding-circle/"
+    "linkedIn": "https://www.linkedin.com/company/funding-circle/",
+    "logo": "funding_circle.png",
+    "category": [
+      "fintech"
+    ]
   },
   {
     "companyName": "Cazoo",
     "link": "https://cazoo.co.uk/",
     "description": "Cazoo is a platform that enables consumers to buy and rental car online.",
-    "linkedIn": "https://www.linkedin.com/company/cazoo/"
+    "linkedIn": "https://www.linkedin.com/company/cazoo/",
+    "logo": "cazoo.png",
+    "category": [
+      "transport"
+    ]
   },
   {
     "companyName": "GoCardless",
     "link": "https://gocardless.com/",
     "description": "GoCardless is a payment company that makes collecting payments by direct debit easy for everyone.",
-    "linkedIn": "https://www.linkedin.com/company/gocardless/"
+    "linkedIn": "https://www.linkedin.com/company/gocardless/",
+    "logo": "gocardless.png",
+    "category": [
+      "fintech"
+    ]
   },
   {
     "companyName": "Babylon Health",
     "link": "https://babylonhealth.com/",
     "description": "Babylon Health aims to provide accessible, affordable healthcare by combining AI with doctors.",
-    "linkedIn": "https://www.linkedin.com/company/babylonhealth/"
+    "linkedIn": "https://www.linkedin.com/company/babylonhealth/",
+    "logo": "babylon.png",
+    "category": [
+      "health"
+    ]
   },
   {
     "companyName": "Seedrs",
     "link": "https://seedrs.com",
     "description": "Seedrs is a UK-based equity crowdfunding platform.",
-    "linkedIn": "http://www.linkedin.com/company/397364"
+    "linkedIn": "http://www.linkedin.com/company/397364",
+    "logo": "seedrs.png"
   },
   {
     "companyName": "IHS Markit",
     "link": "https://ihsmarkit.com",
     "description": "IHS provides information and analysis to support the decision-making process of businesses and governments in industries.",
-    "linkedIn": "https://www.linkedin.com/company/ihsmarkit/"
+    "linkedIn": "https://www.linkedin.com/company/ihsmarkit/",
+    "logo": "ihs_markit.png"
   },
   {
     "companyName": "Onfido",
     "link": "https://onfido.com",
     "description": "Onfido's AI-based identity verification assesses whether a user’s ID is genuine, then compares it against their facial biometrics.",
-    "linkedIn": "http://www.linkedin.com/company/2697456"
+    "linkedIn": "http://www.linkedin.com/company/2697456",
+    "logo": "onfido.png",
+    "category": [
+      "fintech"
+    ]
   },
   {
     "companyName": "Farfetch",
     "link": "https://farfetch.com/",
     "description": "Farfetch is an online luxury fashion retail platform.",
-    "linkedIn": "https://www.linkedin.com/company/farfetch.com/"
+    "linkedIn": "https://www.linkedin.com/company/farfetch.com/",
+    "logo": "farfetch.png",
+    "category": [
+      "fashion"
+    ]
   },
   {
     "companyName": "TradingView",
     "link": "https://tradingview.com",
     "description": "TradingView is the largest network of self-directed traders and investors with an advanced financial platform.",
-    "linkedIn": "http://www.linkedin.com/company/tradingview"
-  },
-  {
-    "companyName": "Medopad",
-    "link": "https://medopad.com",
-    "description": "Medopad is a British healthcare technology company that delivers better and more personalized care.",
-    "linkedIn": "http://www.linkedin.com/company/medopad"
+    "linkedIn": "http://www.linkedin.com/company/tradingview",
+    "logo": "trading_view.png"
   },
   {
     "companyName": "Ebury",
     "link": "https://ebury.com/",
     "description": "Ebury is a financial services company designed to empower small and medium-sized businesses that want to trade internationally.",
-    "linkedIn": "https://www.linkedin.com/company/ebury/"
+    "linkedIn": "https://www.linkedin.com/company/ebury/",
+    "logo": "ebury.png",
+    "category": [
+      "fintech"
+    ]
   },
   {
     "companyName": "OakNorth",
