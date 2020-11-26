@@ -24,8 +24,6 @@ export default function CompanyList({ category, searchQuery }) {
     list = list.slice(0, 50)
   }
 
-  shuffle(list)
-
   return (
     <div className={styles.container}>
       {list.map((company, index) => (
