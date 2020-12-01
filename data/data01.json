@@ -144,61 +144,107 @@
     "companyName": "OakNorth",
     "link": "https://oaknorth.com",
     "description": "The next-generation credit platform that's redefining lending to lower mid-market businesses globally",
-    "linkedIn": "https://www.linkedin.com/company/oaknorth-platform"
+    "linkedIn": "https://www.linkedin.com/company/oaknorth-platform",
+    "logo": "oaknorth.png",
+    "category": [
+      "fintech"
+    ]
   },
   {
     "companyName": "WorldRemit",
     "link": "https://worldremit.com",
     "description": "WorldRemit is a money transfer service that helps migrants send money to their loved ones all over the world.",
-    "linkedIn": "https://www.linkedin.com/company/worldremit/"
+    "linkedIn": "https://www.linkedin.com/company/worldremit/",
+    "logo": "worldremit.png",
+    "category": [
+      "fintech",
+      "payments"
+    ]
   },
   {
     "companyName": "Patch",
     "link": "https://patchplants.com",
     "description": "Patch is the direct-to-consumer brand for the people who need plants most – those who live and work in the city",
-    "linkedIn": ""
+    "linkedIn": "",
+    "logo": "patchplants.png",
+    "category": [
+      "nature",
+      "plants"
+    ]
   },
   {
     "companyName": "OneWeb",
     "link": "https://oneweb.world/",
     "description": "OneWeb is building a space-based global communications network that will deliver high-speed, low latency internet access everywhere.",
-    "linkedIn": "https://www.linkedin.com/company/oneweb-ltd/"
+    "linkedIn": "https://www.linkedin.com/company/oneweb-ltd/",
+    "logo": "oneweb.png",
+    "category": [
+      "communication",
+      "space"
+    ]
   },
   {
     "companyName": "Mimecast",
     "link": "https://mimecast.com",
     "description": "Mimecast is a SaaS-based email management platform enabling companies to administer business communications and data.",
-    "linkedIn": "http://www.linkedin.com/company/mimecast"
+    "linkedIn": "http://www.linkedin.com/company/mimecast",
+    "logo": "mimecast.png",
+    "category": [
+      "communication",
+      "security"
+    ]
   },
   {
     "companyName": "Greensill",
     "link": "https://www.greensill.com/",
     "description": "Greensill is the leading provider of working capital finance for businesses and people all over the world.",
-    "linkedIn": "https://www.linkedin.com/company/greensill/"
+    "linkedIn": "https://www.linkedin.com/company/greensill/",
+    "logo": "greensill.png",
+    "category": [
+      "fintech"
+    ]
   },
   {
     "companyName": "Echo",
     "link": "https://echo.co.uk",
     "description": "Simplifying pharmacy, helping everyone get the medicine they need.",
-    "linkedIn": "https://www.linkedin.com/company/echo-co-uk"
+    "linkedIn": "https://www.linkedin.com/company/echo-co-uk",
+    "logo": "echo_pharmacy.png",
+    "category": [
+      "medicine"
+    ]
   },
   {
     "companyName": "SumUp",
     "link": "https://sumup.com",
     "description": "SumUp is a financial technology company that enables businesses to accept card payments at the Point-of-Sale or on the go.",
-    "linkedIn": "http://www.linkedin.com/company/2619512"
+    "linkedIn": "http://www.linkedin.com/company/2619512",
+    "logo": "sumup.png",
+    "category": [
+      "fintech",
+      "payments"
+    ]
   },
   {
     "companyName": "Improbable",
     "link": "https://improbable.io",
     "description": "Improbable is a games technology company based in the UK.",
-    "linkedIn": "https://www.linkedin.com/company/improbable"
+    "linkedIn": "https://www.linkedin.com/company/improbable",
+    "logo": "improbable.png",
+    "category": [
+      "gaming",
+      "VR"
+    ]
   },
   {
     "companyName": "Secret Escapes",
     "link": "https://secretescapes.com",
     "description": "Secret Escapes is a members-only travel club offering discounted rates on luxury hotels and holidays in the UK.",
-    "linkedIn": "https://www.linkedin.com/company/secret-escapes"
+    "linkedIn": "https://www.linkedin.com/company/secret-escapes",
+    "logo": "secret_escapes.png",
+    "category": [
+      "travel"
+    ]
   },
   {
     "companyName": "Cleo",
