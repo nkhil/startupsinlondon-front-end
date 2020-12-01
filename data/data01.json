@@ -250,37 +250,62 @@
     "companyName": "Cleo",
     "link": "https://meetcleo.com/",
     "description": "Cleo is an artificial intelligence startup that offers an intelligent assistant to help users in managing their finances.",
-    "linkedIn": "https://www.linkedin.com/company/cleo-ai"
+    "linkedIn": "https://www.linkedin.com/company/cleo-ai",
+    "logo": "cleo.png",
+    "category": [
+      "fintech"
+    ]
   },
   {
     "companyName": "Tide",
     "link": "https://tide.co",
     "description": "Tide is a fintech and banking company that gives time back to business owners, so they can get back to doing what they love.",
-    "linkedIn": "https://www.linkedin.com/company/10877408"
+    "linkedIn": "https://www.linkedin.com/company/10877408",
+    "logo": "tide.png",
+    "category": [
+      "fintech"
+    ]
   },
   {
     "companyName": "Signal AI",
     "link": "https://signal-ai.com",
     "description": "Signal AI is an artificial intelligence company that transforms the world’s information into accessible, actionable business knowledge.",
-    "linkedIn": "https://www.linkedin.com/company/signal-artificial-intelligence/"
+    "linkedIn": "https://www.linkedin.com/company/signal-artificial-intelligence/",
+    "logo": "signal.png",
+    "category": [
+      "PR",
+      "Marketing"
+    ]
   },
   {
     "companyName": "LendInvest",
     "link": "https://lendinvest.com",
     "description": "LendInvest operates an online marketplace for property lending and investing.",
-    "linkedIn": "http://www.linkedin.com/company/lendinvest/"
+    "linkedIn": "http://www.linkedin.com/company/lendinvest/",
+    "logo": "lendinvest.png",
+    "category": [
+      "fintech"
+    ]
   },
   {
     "companyName": "Citymapper",
     "link": "https://citymapper.com",
     "description": "Citymapper is a public transit app and mapping service with an emphasis on public transport.",
-    "linkedIn": "https://www.linkedin.com/company/citymapper/"
+    "linkedIn": "https://www.linkedin.com/company/citymapper/",
+    "logo": "citymapper.png",
+    "category": [
+      "transport"
+    ]
   },
   {
     "companyName": "Blockchain",
     "link": "https://blockchain.com/",
     "description": "Blockchain is a web-based bitcoin platform.",
-    "linkedIn": "http://www.linkedin.com/company/blockchain"
+    "linkedIn": "http://www.linkedin.com/company/blockchain",
+    "logo": "blockchain.png",
+    "category": [
+      "fintech"
+    ]
   },
   {
     "companyName": "Pollen",
